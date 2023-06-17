@@ -1503,9 +1503,9 @@ header .logo a {
 	margin-left: -30px;
 }
 .intro-info img {
-	height: 9rem;
-	width: 9rem;
-	border-radius: 50%;
+	height: 9.5rem;
+	width: 10rem;
+	border-radius: 60%;
 	margin: .9rem 0 0 0;
 	float: left;
 }

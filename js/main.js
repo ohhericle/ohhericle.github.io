@@ -254,7 +254,7 @@
 		      error: function() {
 
 		      	sLoader.fadeOut(); 
-		      	$('#message-warning').html("Something went wrong. Please try again.");
+		      	$('#message-warning').html("Something went wrong. Please email ohhericle@yahoo.com directly.");
 		         $('#message-warning').fadeIn();
 
 		      }
